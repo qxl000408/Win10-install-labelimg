@@ -1,0 +1,14 @@
+Win10快速安装labelimg
+
+需要环境：Anconda3
+
+运行Anconda3命令行：执行下面代码
+    
+    pip install PyQt5 -i https://pypi.tuna.tsinghua.edu.cn/simple/
+    pip install pyqt5-tools -i https://pypi.tuna.tsinghua.edu.cn/simple/
+    pip install lxml -i https://pypi.tuna.tsinghua.edu.cn/simple/
+    pip install labelImg -i https://pypi.tuna.tsinghua.edu.cn/simple/
+
+然后直接执行：labelimg
+
+即可。
